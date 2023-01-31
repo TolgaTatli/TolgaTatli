@@ -1,8 +1,9 @@
+[![CyberSecImg](https://i.pinimg.com/originals/eb/de/26/ebde269a55ceaac2862a869df40a16c3.jpg)
 <h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-<p align = "left"> <img src = "https://i.gifer.com/4LQU.gif" alt = "just GIFs"/></p>
+<img align = "right" width = "400" src = "https://i.gifer.com/4LQU.gif" alt = "just GIFs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgattli&label=Profile%20views&color=b40e0e&style=flat-square" alt="tolgattli" /> </p>
 

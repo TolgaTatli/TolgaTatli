@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-<img align = "right" width = "400" src = "https://i.gifer.com/4LQU.gif" alt = "just GIFs">
+<img align = "right" width = "200" src = "https://i.gifer.com/4LQU.gif" alt = "just GIFs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgattli&label=Profile%20views&color=b40e0e&style=flat-square" alt="tolgattli" /> </p>
 

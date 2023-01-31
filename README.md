@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+
+<p align = "left"> <img src = "https://i.gifer.com/4LQU.gif" alt = "just GIFs"/></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgattli&label=Profile%20views&color=b40e0e&style=flat-square" alt="tolgattli" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tolgattli" target="blank"><img src="https://img.shields.io/twitter/follow/tolgattli?logo=twitter&style=for-the-badge" alt="tolgattli" /></a> </p>

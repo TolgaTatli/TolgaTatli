@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-<img align = "right" width = "380" src = "https://media.tenor.com/QrqIE5XUDDwAAAAM/programmer-bug.gif" alt = "just GIFs"/>
+<img align = "right" width = "380" src = "https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt = "GIF"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgattli&label=Profile%20views&color=b40e0e&style=flat-square" alt="tolgattli" /> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A frontend developer from Turkey</h3>
 
 
 <img align = "right" width = "380" src = "https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt = "GIF"/>

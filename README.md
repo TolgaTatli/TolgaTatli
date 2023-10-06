@@ -5,7 +5,7 @@
   
   <p> <a href="https://twitter.com/tolgattli" target="blank"><img src="https://img.shields.io/twitter/follow/tolgattli?logo=twitter&style=for-the-badge" alt="tolgattli" /></a> </p>
   
-   🌱 I’m currently learning **React,Django**
+   🌱 I’m currently learning **Next JS**
   
   📫 How to reach me **tolgatatli44@gmail.com**
   

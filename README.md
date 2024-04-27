@@ -8,7 +8,7 @@
         src="https://img.shields.io/twitter/follow/tolgattli?logo=twitter&style=for-the-badge" alt="tolgattli" /></a>
   </p>
 
-  🌱 I’m currently learning **Next.js**
+  🌱 I’m currently learning **Flutter**
 
   📫 How to reach me **tolgatatli44@gmail.com**
 
